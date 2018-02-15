@@ -50,9 +50,10 @@ def self.genres
 end
 
 def self.genre_count
-  @@genres: genre.count
+  {@@genres: genre.count}
 end
 
 
 
 end
+ 
