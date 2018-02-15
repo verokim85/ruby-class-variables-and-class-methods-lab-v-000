@@ -49,9 +49,9 @@ def self.genres
   @@genres.uniq
 end
 
-def sef.genre_count
-
-end
+# def sef.genre_count
+#
+# end
 
 
 
