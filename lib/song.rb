@@ -66,8 +66,8 @@ def self.artist_count
   @@artists.each do |songs|
   if num_songs.keys.include?(songs) == true
     num_songs[keys] += 1
-  else 
-    num_songs[keys]= 1 
+  else
+    num_songs[keys]= 1
   end
 end
   return num_songs
@@ -75,8 +75,6 @@ end
 
 
 
-
-end
 
 
 end
