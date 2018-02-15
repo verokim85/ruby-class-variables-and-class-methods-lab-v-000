@@ -53,8 +53,9 @@ def self.genre_count
   hash = {}
   @@genres.each do |gen, genr|
     hash[gen]=genr
-  if  
-    end 
+  if hash.include? == true
+    key + 1 
+    end
   end
 end
 
