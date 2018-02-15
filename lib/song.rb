@@ -41,6 +41,9 @@ def genre
   @genre
 end
 
+def self.artists
+
+end
 
 
 
