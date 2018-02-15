@@ -42,9 +42,7 @@ def genre
 end
 
 def self.artists
-  if artist.include? == false
-    @@artist << artist
-  end
+
 end
 
 
