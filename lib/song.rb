@@ -51,8 +51,8 @@ end
 
 def self.genre_count
   genres.each do |genre|
-    genres.count 
-  
+    genres: genres.count
+
 end
 
 
