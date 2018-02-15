@@ -50,7 +50,7 @@ def self.genres
 end
 
 def self.genre_count
-  {genres => names}
+  {genres => name}
 end
 
 
