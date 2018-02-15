@@ -63,7 +63,9 @@ end
 
 def self.artist_count
   num_songs = {}
-  
+  @@artists.each do |songs|
+
+
 
 
 end
