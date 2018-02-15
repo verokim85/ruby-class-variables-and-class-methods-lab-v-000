@@ -50,7 +50,7 @@ def self.genres
 end
 
 def sef.genre_count
-  genre: songs
+  genres: songs
 end
 
 
