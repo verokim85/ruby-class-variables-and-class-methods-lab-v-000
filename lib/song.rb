@@ -41,9 +41,10 @@ def genre
   @genre
 end
 
-def self.artists
-
-end
+def self.artists 
+  if artist.include? == false 
+    @@artist << artist 
+end 
 
 
 
