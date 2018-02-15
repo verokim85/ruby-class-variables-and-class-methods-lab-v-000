@@ -55,7 +55,7 @@ def self.genre_count
   if hash.keys.include?(gen) == true
     hash[gen] += 1
   else
-    hash[gen]=genr
+    hash[gen]=1
     end
   end
 end
