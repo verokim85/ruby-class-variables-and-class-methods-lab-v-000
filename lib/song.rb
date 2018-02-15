@@ -62,7 +62,8 @@ def self.genre_count
 end
 
 def self.artist_count
-
+  num_songs = {}
+  
 
 
 end
