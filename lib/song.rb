@@ -52,7 +52,7 @@ end
 def self.genre_count
   hash = {}
   @@genres.each do |gen|
-  if hash.keys.include? == true
+  if hash.keys.include?(gen) == true
     value + 1
   else
     hash[gen]=genr
