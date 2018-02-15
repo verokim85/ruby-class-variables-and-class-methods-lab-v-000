@@ -49,6 +49,9 @@ def self.genres
   @@genres.uniq
 end
 
+def sef.genre_count
+  genre: songs
+end
 
 
 
