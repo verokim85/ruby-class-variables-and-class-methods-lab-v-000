@@ -58,6 +58,7 @@ def self.genre_count
     hash[gen]=1
     end
   end
+  return hash
 end
 
 
