@@ -51,11 +51,10 @@ end
 
 def self.genre_count
   hash = {}
-  {@@genres: genre.count}
-end
+
+
 end
 
 
 
 end
- 
