@@ -49,7 +49,7 @@ def self.genres
   @@genres.uniq
 end
 
-def sef.genre_count
+def self.genre_count
   {genres => names}
 end
 
